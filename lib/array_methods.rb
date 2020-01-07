@@ -15,6 +15,7 @@ def find_max_value(array)
       return count
     end
     nil
+  end
 end
 
 def find_min_value(array)
